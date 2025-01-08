@@ -1,1 +1,1 @@
-
+La tasca tracta de fer un programa que genera un número aleatori entre 1 i 100 i ha de preguntar repetidament el número fins que l'usuari l'endevini. Després de cada intent, el programa diu si el número és més gran o més petit que la resposta de l'usuari. Quan l'usuari l'encerta, el programa mostra el nombre d'intents realitzats, si l'usuari no l'encerta després dels intents indicats pel programa, aquest també mostra el intents i el nombre correcte.
