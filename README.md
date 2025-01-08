@@ -1,6 +1,6 @@
 # python
 Repositori per projectes i codis de Python.
-- Anem de compres
-- Calculadora i exercicis de mates
-- Endevina
-- El restaurant
+- Python1: Anem de compres
+- Python2: Calculadora i exercicis de mates
+- Python3: Endevina
+- Python4: El restaurant
