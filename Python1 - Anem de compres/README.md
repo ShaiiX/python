@@ -1,1 +1,1 @@
-Explicació i instruccions
+L'objectiu d'aquesta tasca és desenvolupar un programa en Python que demani les següents instruccions: el DNI, el preu d'un article, el descompte i l'IVA. Així es podrà calcular el NIF i el preu final amb descompte i l'IVA.
