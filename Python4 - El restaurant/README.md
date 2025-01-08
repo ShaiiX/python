@@ -1,1 +1,1 @@
-Aquesta tasca té l'objectiu de crear un programa que permeti a l'usuari introduir plats i els seus preus de contínuament fins que es compleixin determinades condicions. 
+Aquesta tasca té l'objectiu de crear un programa que permeti a l'usuari introduir plats i els seus preus de contínuament fins que es compleixin determinades condicions. S'haurà d'indicar el nom del plat i el seu preu, com a mínim podrà 8 plats, amb "$" és podrà aturar-lo després de que s'hagin posat els plats que vol l'usuari en cas de que siguin menys de 8
